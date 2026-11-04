@@ -50,5 +50,5 @@ The left-side slicer panel contains filters for City, Cuisines, Price Range, and
 This project demonstrates my ability to use Power BI for data cleaning, analysis, KPI creation, DAX calculations, interactive visualization, and dashboard development. The Zomato Restaurant Analysis Dashboard transforms restaurant data into an easy-to-understand analytical report that supports exploration of customer preferences, restaurant locations, pricing, ratings, and service availability.
 
 # Screenshot
-![Zomato Dashboard Screenshot](https://github.com/user-attachments/assets/809a70d8-573f-418d-96b1-f0a04fc288ed)
+![Zomato Dashboard Screenshot](https://github.com/sakshinalawade2012/Zomato-Analysis-Dashboard/blob/main/Zomato%20Dashboard.png)
  
