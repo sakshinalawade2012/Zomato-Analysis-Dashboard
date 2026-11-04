@@ -29,7 +29,7 @@ The pie chart compares restaurants represented by online delivery and table book
 5. Average Rating by Price Range
 The line chart examines how average restaurant ratings vary across price ranges. In the displayed dashboard, the average rating moves from approximately 3.82 for Premium to 3.68 for High, 2.94 for Medium, and 2.00 for Low, highlighting a visible relationship between price category and average rating in the analyzed data.
 
-6.City-Level Restaurant Analysis
+6. City-Level Restaurant Analysis
 The detailed table provides a granular comparison of cities using Total Restaurants, Average Rating, Average Cost for Two, and Average Votes. This visual complements the charts by allowing users to inspect city-specific values and compare multiple performance indicators together.
 
 7. Interactive Filters
